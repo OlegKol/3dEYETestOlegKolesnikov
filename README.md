@@ -9,6 +9,9 @@
 
 ## Запуск
 
-### Генератор
 ```bash
 Generator.exe --out data.txt --size 5GB --threads 4
+
+Sorter.exe --in data.txt --out sorted.txt --temp tempdir --mem 1024 --threads 4
+
+Performance.exe 50MB
