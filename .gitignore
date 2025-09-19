@@ -1,0 +1,41 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Visual Studio cache/options
+.vs/
+
+# Rider
+.idea/
+*.iml
+
+# Mac / Linux
+.DS_Store
+*.swp
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+
+# Others
+*.dbmdl
+*.bak
+*.cache
+*.tmp
+*.testsettings
+TestResult*
